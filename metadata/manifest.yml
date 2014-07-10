@@ -1,7 +1,7 @@
 Name: elasticsearch
 Cartridge-Short-Name: ELASTICSEARCH
-Display-Name: ElasticSearch 1.1.1
-Description: "ElasticSearch"
+Display-Name: Elasticsearch 1.1.1
+Description: "Elasticsearch is a flexible and powerful open source, distributed, real-time search and analytics engine. Architected from the ground up for use in distributed environments where reliability and scalability are must haves, Elasticsearch gives you the ability to move easily beyond simple full-text search."
 Version: 1.1.1
 License: Apache
 Vendor: elasticsearch.org
